@@ -37,6 +37,7 @@ Streamlit – Dashboard interativo
 Requests / SSL – Integrações com APIs seguras
 
 
+
 🧠 Objetivos Acadêmicos
 Aplicar um pipeline ETL real com múltiplas fontes de dados
 
